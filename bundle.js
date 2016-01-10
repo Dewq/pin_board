@@ -6,7 +6,7 @@ var ReactDOM = require('react-dom');
 ReactDOM.render(React.createElement(
   'h1',
   null,
-  'Hello, world!'
+  'Pin Board App'
 ), document.getElementById('test'));
 
 },{"react":158,"react-dom":29}],2:[function(require,module,exports){
